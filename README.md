@@ -4,6 +4,10 @@
 Cancer treatment requires **continuous monitoring**, **timely interventions**, and **seamless coordination** among healthcare providers.  
 The Oncology Patient Tracking is a **data-driven solution** designed to **enhance patient management**, **streamline workflows**, and **improve outcomes** in oncology care.
 
+# 📊 Oncology-Patient-Tracking Analysis
+
+### Project Report
+
 ## 🧭 1. Overview
 The Oncology Patient Tracking is designed to monitor key clinical metrics for cancer patients. It focuses on patient outcomes, visit types, discharge patterns, and prolonged hospital stays. Insight generated from this analysis will enables healthcare providers and administrators to identify high-risk groups, streamline discharge processes, and enhance care coordination.
 
