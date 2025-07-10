@@ -88,7 +88,7 @@ The dashboard includes:
 
 - Use the Power BI Desktop (latest version) to view project [here](https://app.powerbi.com/groups/me/reports/e3d921e5-7fc0-44d5-83ae-83414beb0833?ctid=43b41731-b631-4e1d-9c02-d28ae0282fdc&pbi_source=linkShare)
 
-## 10. Recommendations
+## 10. Recommendations 
 
 | Theme             | Recommendation                                       | Actionable Steps                               |
 |-------------------|------------------------------------------------------|------------------------------------------------|
