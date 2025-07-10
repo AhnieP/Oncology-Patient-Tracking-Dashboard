@@ -1,4 +1,4 @@
-# Oncology-Patient-Tracking (Power BI & EXCEL) ![image](https://github.com/user-attachments/assets/9a28568f-58a8-4755-82f7-9fb403917eed)
+# Oncology-Patient-Tracking (Power BI & EXCEL) 
 
 
 Cancer treatment requires **continuous monitoring**, **timely interventions**, and **seamless coordination** among healthcare providers.  
